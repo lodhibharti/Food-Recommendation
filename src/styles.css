@@ -1,0 +1,60 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  background-color: cadetblue;
+  font-family: "Times New Roman", Times, serif;
+  padding: 0.5rem;
+}
+
+h2 {
+  background-color: cadetblue;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  padding: 0.2rem;
+}
+body {
+  background-color: black;
+}
+.foodList {
+  padding: 1.5rem;
+  text-align: center;
+}
+.foodList button {
+  margin: 0.5rem;
+  font-weight: bold;
+  font-family: cursive;
+  cursor: pointer;
+  background-color: cadetblue;
+  color: white;
+  border: 1px solid white;
+  width: 8rem;
+}
+
+.food {
+  background: var(--primary-color);
+  padding: 5rem;
+  margin: 3rem 0rem;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 0.5rem;
+}
+.food-img {
+  width: 90%;
+  margin: 0rem;
+  border-radius: 1rem;
+}
+footer {
+  background-color: cadetblue;
+  padding: 0.1rem;
+  text-align: center;
+  color: black;
+}
+footer a {
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+  cursor: pointer;
+}
