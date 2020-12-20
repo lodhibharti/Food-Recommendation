@@ -30,7 +30,8 @@ body {
   background-color: cadetblue;
   color: white;
   border: 1px solid white;
-  width: 8rem;
+  width: 10rem;
+  font-size: 1rem;
 }
 
 .food {
@@ -43,7 +44,7 @@ body {
   border-radius: 0.5rem;
 }
 .food-img {
-  width: 50%;
+  width: 20%;
   margin: 0rem;
   border-radius: 1rem;
 }
